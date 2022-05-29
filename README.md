@@ -1,5 +1,4 @@
-# Leandro-M-ller
-Apresentação 
+# Leandro-Muller
 
 ## Olá, me chamo Leandro Müller
 - 📚 Graduando em engenharia elétrica [UFRN] / 3º período
@@ -17,7 +16,6 @@ Apresentação
   <img align="center" alt="graveto-cpp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
   <img align="center" alt="graveto-poo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="graveto-py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="right" alt="Graveto-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/712342414764802073/959863980778737764/AvatarMaker.png">
 </div>
   
   ##
