@@ -1,7 +1,7 @@
 # Leandro-Muller
 
 ## Olá, me chamo Leandro Müller
-- 📚 Graduando em engenharia elétrica [UFRN] / 4º período
+- 📚 Graduando em engenharia elétrica [UFRN] / 5º período
 - 📚 Técnico em eletrônica [IFRN]
 - ❤ Apaixonado por tecnologia
 
@@ -26,7 +26,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/leandr0_muller/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:leandromllr9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leandro-muller-89035867/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a> 
+  <a href="https://www.linkedin.com/in/leandromuller7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a> 
  
  
 </div>
