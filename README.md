@@ -1,7 +1,7 @@
 # Leandro-Muller
 
 ## Olá, me chamo Leandro Müller
-- 📚 Graduando em engenharia elétrica [UFRN] / 6º período
+- 📚 Graduando em engenharia elétrica [UFRN] / 7º período
 - 📚 Técnico em eletrônica [IFRN]
 - ❤ Apaixonado por tecnologia
 
